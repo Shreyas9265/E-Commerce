@@ -53,7 +53,7 @@ ecommerce/
      ```
 
 4. **Run the app**
-   - Visit: **http://localhost/ecommerce/public** (or your index path).
+  
    - Log in / sign up, browse products, add to cart, checkout.
 
 ## 🔐 Environment & Security
@@ -64,19 +64,3 @@ ecommerce/
 ## 🧪 Test Data (optional)
 - Use `sql/seed.sql` to load demo products and a test admin user.
 
-## 📸 Screenshots (optional)
-Add images under `public/assets/screens/` and link them here.
-
-## 📈 Roadmap
-- Payment integration (Stripe/PayPal sandbox)
-- Order email receipts
-- Pagination, advanced filters, wishlist
-- Role‑based permissions and audit logs
-
-## 📦 Deployment Notes
-- For production, use a real LAMP server or cloud host (Apache/Nginx + PHP + MySQL).
-- Configure virtual hosts and environment‑specific config files.
-- Enforce HTTPS and secure cookies.
-
-## 📝 License
-MIT (or your preferred license)
